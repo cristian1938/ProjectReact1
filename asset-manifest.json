@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Search-Task-React/static/css/main.3fc8258a.css",
+    "main.js": "/Search-Task-React/static/js/main.d1d92a84.js",
+    "static/media/delete.svg": "/Search-Task-React/static/media/delete.c05a99f1ca86a2b4f41636dc7d3c7a58.svg",
+    "static/media/check.svg": "/Search-Task-React/static/media/check.bd3032fbb8d5d531fd0592d70b6fea54.svg",
+    "index.html": "/Search-Task-React/index.html",
+    "main.3fc8258a.css.map": "/Search-Task-React/static/css/main.3fc8258a.css.map",
+    "main.d1d92a84.js.map": "/Search-Task-React/static/js/main.d1d92a84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc8258a.css",
+    "static/js/main.d1d92a84.js"
+  ]
+}
