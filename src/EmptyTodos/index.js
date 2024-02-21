@@ -1,4 +1,5 @@
 import React from 'react';
+import './Diseño.css';
 
 function EmptyTodos() {
   return (
