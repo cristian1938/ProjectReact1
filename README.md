@@ -67,6 +67,9 @@ Esta aplicación cubre varios temas fundamentales de React, incluyendo:
 
 ## Demo
 
+![image](https://github.com/cristian1938/Search-Task-React/assets/59376790/481ff5be-cc31-4f5e-81b5-616241f7f31f)
+
+
 Puedes ver la aplicación en acción [aquí](https://cristian1938.github.io/Search-Task-React/).
 
-¡Gracias por usar "ADMINISTRAR TAREAS" en React!
+
